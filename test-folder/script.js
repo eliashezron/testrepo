@@ -1,3 +1,3 @@
-const isworking = require("isworking")
+const { working } = require("working")
 
-console.log(isworking("is it working"))
+console.log(working("is it working"))
