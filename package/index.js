@@ -1,5 +1,5 @@
-function working(string) {
-  return string === "is it working"
+function isWorking(string) {
+  return string === "yes, it is working"
 }
 
-module.exports = { working }
+module.exports = isWorking
